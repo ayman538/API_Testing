@@ -1,9 +1,8 @@
 package Enum;
 import lombok.Getter;
-import lombok.Data;
 public enum EndPoints {
 
-    USER("/api/v3/user/mario");
+    PET("/api/v3/pet");
     @Getter
     private final String value;
     EndPoints(String value) {
