@@ -1,7 +1,7 @@
 **Project Info**
 
-1.This is a Maven project.
-2.It utilizes the Rest Assured library for API testing.
+1.This is a Maven project./n
+2.It utilizes the Rest Assured library for API testing./n
 3.Cucumber is used to generate reports containing information about the test results and to write test cases in a human-readable format.
 
 
