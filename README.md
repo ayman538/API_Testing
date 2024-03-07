@@ -1,12 +1,13 @@
 **Project Info**
+
 1.This is a Maven project.
 2.It utilizes the Rest Assured library for API testing.
 3.Cucumber is used to generate reports containing information about the test results and to write test cases in a human-readable format.
 
 
 **Steps to Install and Run**
-**
-Prerequisites:**
+
+**Prerequisites:**
 
 1.Install an Integrated Development Environment (IDE).
 2.Install the Java Development Kit (JDK).
